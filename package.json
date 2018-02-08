@@ -1,0 +1,9 @@
+{
+  "name": "snowflake",
+  "version": "1.0.0",
+  "description": "Snowflake",
+  "main": "src/jquery.snowflake.js",
+  "repository": "https://github.com/ouronghuang/snowflake",
+  "author": "ouronghuang",
+  "license": "MIT"
+}
