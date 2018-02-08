@@ -40,6 +40,8 @@
 
 运行 examples 下的 index.html 即可观看效果
 
+![示例图片](./examples/images/demo.gif)
+
 ## 兼容
 
 * jQuery 1.4.4+
